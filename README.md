@@ -15,3 +15,8 @@ the main structure is discribed in the diagram bellow that was given by the prof
 
 also there is another list that saves each subcriber, their info and the publisers he is interested in.
 ![Screenshot from 2023-07-25 21-16-27](https://github.com/GeorgeXiroudakis/HY-240-project1/assets/138579604/742d0792-dbf8-4756-b42f-bc41f15c86e9)
+
+## use 
+
+it works by feeding it a file in the format of the test.txt file given.
+whete you first spesify the instractin (s for subrcibe, p print, c consum) and then the specifics of the instraction.
