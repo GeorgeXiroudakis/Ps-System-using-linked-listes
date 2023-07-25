@@ -1,18 +1,3 @@
-/***************************************************************
- *
- * file: pss.h
- *
- * @Author  Nikolaos Vasilikopoulos (nvasilik@csd.uoc.gr)
- * @Version 20-10-2020
- *
- * @e-mail       hy240-list@csd.uoc.gr
- *
- * @brief   Implementation of the "pss.h" header file for the Public Subscribe System,
- * function definitions
- *
- *
- ***************************************************************
- */
 #include <stdio.h>
 #include <stdlib.h>
 
